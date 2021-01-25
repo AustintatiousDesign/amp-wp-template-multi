@@ -1,14 +1,14 @@
 {
   "theme": {
-      "slug": "ampwpmulti",
-      "name": "AMP WordPress Multi",
+      "slug": "dirtyamp",
+      "name": "Dirty AMP WordPress Multi",
       "author": "Daniel Bisett - Austintatious Design",
       "PHPNamespace": "WP_Rig\\WP_Rig"
     },
     "dev": {
       "browserSync": {
         "live": true,
-        "proxyURL": "ampwpmulti.local",
+        "proxyURL": "dirtyamp.local",
         "bypassPort": "8181",
         "https": false
       }
